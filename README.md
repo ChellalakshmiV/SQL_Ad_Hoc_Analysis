@@ -1,4 +1,4 @@
-# SQL_Ad_Hoc_Analysis
+# SQL Ad Hoc Analysis
 ## Company Overview
 AtliQ Hardwares is an imaginary leading computer hardware producer in India with a global presence. The company is committed to leveraging data analytics to drive smart, data-informed decisions.
 
